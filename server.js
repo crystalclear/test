@@ -1,5 +1,5 @@
 var http = require('http');
 
 http.createServer(function(req, res){
-    res.end('Hallo mein Schatz');	
+    res.end('Wombat');	
 }).listen(8080);
